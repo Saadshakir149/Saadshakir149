@@ -1,71 +1,86 @@
-<h1 align="center">Hi, I'm Saad Shakir 👋</h1>
-<h3 align="center">Full-Stack Engineer · AI & HCI Researcher · Building products with Node.js, React & LLMs</h3>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Saad Shakir — Full-Stack Engineer" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="mailto:saadshakir2300@gmail.com"><img src="https://img.shields.io/badge/Email-saadshakir2300%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Multan%2C%20Pakistan-0A66C2?style=flat&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20%7C%20AI%20roles-2EA44F?style=flat"/>
+  <a href="mailto:saadshakir2300@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-7c5cff?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://brightstack.pk"><img src="https://img.shields.io/badge/Brightstack-brightstack.pk-22d3ee?style=flat-square&logo=rocket&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open_to-Full--Stack_%26_AI_roles-4ade80?style=flat-square"/></p>
+
+<br/>
+
+## ⚡ About me
+
+```ts
+const saad = {
+  role:      "Full-Stack Engineer",
+  education: "BS Computer Science · MUST (CGPA 3.4)",
+  research:  "Research Assistant @ CHISEL Lab, LUMS — HCI, accessibility & GenAI",
+  worked_at: ["NetSol Technologies", "Shark Stack"],
+  building:  "Brightstack — SaaS for retail & education (co-founder)",
+  teaching:  "Evening CS classes for intermediate students",
+  loves:     ["real-time systems", "LLM products", "clean APIs"],
+};
+```
+
+## 🧰 Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,astro,nodejs,express,flask,fastapi&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,docker,githubactions,git,figma,vercel&theme=dark" />
 </p>
 
----
+<sub>Also: Socket.IO · React Native / Expo · Groq (Llama 3) · Whisper STT · REST & WebSocket APIs</sub>
 
-### 🧑‍💻 About me
+## 🚀 Featured work
 
-- 🎓 **BS Computer Science**, Multan University of Science & Technology (CGPA 3.4)
-- 🔬 Former **Research Assistant at CHISEL Lab, LUMS** — HCI, accessibility & generative-AI research
-- 💼 Worked as a **JavaScript Developer at NetSol** and **Node.js Developer Intern at Shark Stack**
-- 🚀 Co-founder of **[Brightstack](https://brightstack.pk)** — SaaS products for retail & education (POS, Academy Desk)
-- 🧑‍🏫 Teach Computer Science to intermediate students in the evenings
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Saadshakir149/LLM_MODERATOR">🤖 LLM Moderator</a></h3>
+      Real-time platform where an LLM moderates group discussions — used in research on active vs. passive AI moderation, with a voice mode.
+      <br/><br/>
+      <code>Python</code> <code>Flask-SocketIO</code> <code>React</code> <code>Groq</code> <code>Whisper</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Saadshakir149/brightstack-pos">🧾 Brightstack POS</a></h3>
+      Retail point-of-sale SaaS for small businesses — part of the Brightstack product line.
+      <br/><br/>
+      <code>TypeScript</code> <code>SaaS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Saadshakir149/mental-health-screening">🧠 Mental Health Screening</a></h3>
+      Web app for guided mental-health screening.
+      <br/><br/>
+      <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Saadshakir149/ai-evaluator">📐 AI Evaluator</a></h3>
+      LLM-based evaluation tool.
+      <br/><br/>
+      <code>Python</code> <code>LLMs</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Saadshakir149/user-auth-rbac-api">🔐 Auth & RBAC API</a></h3>
+      Production-style authentication with JWT and role-based access control.
+      <br/><br/>
+      <code>Node.js</code> <code>Express</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Saadshakir149/HalimEnterprisesLimited">🏢 Halim Enterprises</a></h3>
+      Client website for a UK accountancy firm.
+      <br/><br/>
+      <code>TypeScript</code> <code>Client work</code>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech stack
+## 🤝 Let's work together
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
-</p>
-
-**Backend & AI**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs%20(Groq%20%7C%20Whisper)-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-**Databases & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 🌟 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**LLM Moderator**](https://github.com/Saadshakir149/LLM_MODERATOR) | Real-time platform where an LLM moderates group discussions; used in research on active vs. passive AI moderation in triads, with a voice modality | Python · Flask-SocketIO · React · Groq · Whisper |
-| [**Brightstack POS**](https://github.com/Saadshakir149/brightstack-pos) | Retail point-of-sale SaaS for small businesses | TypeScript |
-| [**Mental Health Screening**](https://github.com/Saadshakir149/mental-health-screening) | Web app for guided mental-health screening | TypeScript |
-| [**AI Evaluator**](https://github.com/Saadshakir149/ai-evaluator) | LLM-based evaluation tool | Python |
-| [**User Auth & RBAC API**](https://github.com/Saadshakir149/user-auth-rbac-api) | Production-style auth with JWT and role-based access control | Node.js · Express |
-| [**Halim Enterprises**](https://github.com/Saadshakir149/HalimEnterprisesLimited) | Client website for a UK accountancy firm | TypeScript |
-
-### 📫 Let's connect
-
-I'm open to **full-stack, backend and AI engineering roles** (remote or on-site). Reach me at **saadshakir2300@gmail.com**.
+I'm open to **full-stack, backend and AI engineering roles** — remote or on-site.
+Drop me a line at **saadshakir2300@gmail.com**.
