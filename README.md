@@ -12,7 +12,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 **BS Computer Science**, Multan University of Science & Technology (CGPA 3.4)
-- 🔬 Former **Research Assistant at CHISEL Lab, LUMS** (Dr. Suleman Shahid) — HCI, accessibility & generative-AI research
+- 🔬 Former **Research Assistant at CHISEL Lab, LUMS** — HCI, accessibility & generative-AI research
 - 💼 Worked as a **JavaScript Developer at NetSol** and **Node.js Developer Intern at Shark Stack**
 - 🚀 Co-founder of **[Brightstack](https://brightstack.pk)** — SaaS products for retail & education (POS, Academy Desk)
 - 🧑‍🏫 Teach Computer Science to intermediate students in the evenings
@@ -65,16 +65,6 @@
 | [**AI Evaluator**](https://github.com/Saadshakir149/ai-evaluator) | LLM-based evaluation tool | Python |
 | [**User Auth & RBAC API**](https://github.com/Saadshakir149/user-auth-rbac-api) | Production-style auth with JWT and role-based access control | Node.js · Express |
 | [**Halim Enterprises**](https://github.com/Saadshakir149/HalimEnterprisesLimited) | Client website for a UK accountancy firm | TypeScript |
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saadshakir149&show_icons=true&hide_border=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadshakir149&layout=compact&hide_border=true&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadshakir149&hide_border=true&theme=tokyonight"/>
-</p>
 
 ### 📫 Let's connect
 
